@@ -73,5 +73,6 @@ function display(board,row){
             }
         }
     }
+	
     flag = false;
 }
